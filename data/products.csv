@@ -1,0 +1,301 @@
+product_id,product_name,category,brand,price
+1,Pro Monitor,Beauty,Lumi,469.14
+2,Plus Novel,Beauty,HerbalNest,2018.36
+3,Premium Skincare Set,Fashion,TrendLine,7429.15
+4,Plus Jacket,Beauty,GlowLab,5708.52
+5,Max Cookware,Electronics,SoundMax,79358.52
+6,Essential Skincare Set,Electronics,Voltix,38531.06
+7,Lite Speaker,Books,Penguin,442.76
+8,Smart Cookware,Beauty,GlowLab,3030.08
+9,Lite Yoga Mat,Electronics,SoundMax,8903.18
+10,Ultra Lamp,Electronics,SoundMax,69904.86
+11,Lite Mixer,Books,Maple Press,1074.89
+12,Classic Headphones,Electronics,NovaTech,32836.87
+13,Pro Keyboard,Fashion,TrendLine,912.39
+14,Pro Monitor,Electronics,SoundMax,32895.06
+15,Lite Backpack,Electronics,Voltix,69402.38
+16,Max Backpack,Fashion,StyleHub,5716.23
+17,Plus Keyboard,Books,Harper,286.05
+18,Classic Watch,Fashion,UrbanWear,1531.29
+19,Max Mixer,Home & Kitchen,PureHome,10050.79
+20,Pro Speaker,Beauty,Lumi,787.98
+21,Premium Watch,Home & Kitchen,CookEase,23377.41
+22,Pro Mixer,Beauty,Lumi,3983.29
+23,Plus Skincare Set,Beauty,HerbalNest,749.97
+24,Plus Monitor,Home & Kitchen,HomeNest,19786.21
+25,Pro Bottle,Beauty,Lumi,2336.75
+26,Classic Jacket,Sports,ActiveX,2675.25
+27,Smart Headphones,Beauty,GlowLab,3505.91
+28,Daily Headphones,Sports,FitCore,429.71
+29,Plus Novel,Electronics,PixelPro,37659.49
+30,Max Sneakers,Beauty,GlowLab,5094.07
+31,Max Cookware,Beauty,CarePlus,5582.73
+32,Max Novel,Fashion,UrbanWear,2937.67
+33,Daily Headphones,Books,ReadWell,1210.02
+34,Daily Watch,Fashion,TrendLine,2046.54
+35,Max Novel,Electronics,PixelPro,45168.88
+36,Classic Monitor,Sports,Sprint,2764.07
+37,Classic Lamp,Electronics,NovaTech,46051.44
+38,Premium Mixer,Fashion,TrendLine,1622.26
+39,Pro Speaker,Fashion,TrendLine,7547.49
+40,Premium Skincare Set,Books,ReadWell,1613.41
+41,Classic Keyboard,Home & Kitchen,HomeNest,8688.19
+42,Daily Novel,Beauty,Lumi,4704.64
+43,Max Speaker,Sports,Sprint,1226.39
+44,Ultra Lamp,Home & Kitchen,Oak & Co,18612.88
+45,Premium Mixer,Books,Penguin,616.06
+46,Daily Monitor,Sports,Sprint,1615.73
+47,Smart Jacket,Fashion,StyleHub,5522.07
+48,Max Novel,Books,Harper,925.18
+49,Premium Jacket,Home & Kitchen,HomeNest,13441.43
+50,Premium Yoga Mat,Electronics,NovaTech,42025.96
+51,Classic Speaker,Fashion,StyleHub,757.75
+52,Lite Headphones,Home & Kitchen,HomeNest,1663.95
+53,Daily Sneakers,Electronics,SoundMax,48412.47
+54,Essential Keyboard,Home & Kitchen,PureHome,15747.07
+55,Ultra Monitor,Fashion,StyleHub,663.24
+56,Smart Keyboard,Home & Kitchen,PureHome,9709.61
+57,Classic Monitor,Electronics,SoundMax,49337.82
+58,Essential Watch,Sports,FitCore,6669.8
+59,Classic Lamp,Fashion,StyleHub,6677.72
+60,Ultra Monitor,Electronics,Voltix,34122.0
+61,Essential Cookware,Fashion,UrbanWear,4521.58
+62,Max Keyboard,Home & Kitchen,Oak & Co,14632.59
+63,Premium Headphones,Beauty,HerbalNest,2009.86
+64,Lite Sneakers,Home & Kitchen,CookEase,1724.1
+65,Premium Backpack,Electronics,PixelPro,1134.69
+66,Plus Keyboard,Books,Penguin,1529.61
+67,Plus Skincare Set,Home & Kitchen,PureHome,5325.7
+68,Classic Lamp,Electronics,NovaTech,50716.17
+69,Classic Headphones,Sports,Sprint,5897.36
+70,Smart Bottle,Beauty,CarePlus,2517.87
+71,Classic Watch,Beauty,HerbalNest,5034.26
+72,Smart Mixer,Fashion,Aster,5677.69
+73,Daily Keyboard,Fashion,StyleHub,475.11
+74,Smart Sneakers,Home & Kitchen,PureHome,19506.67
+75,Essential Cookware,Electronics,NovaTech,40954.31
+76,Classic Monitor,Fashion,UrbanWear,2972.05
+77,Ultra Yoga Mat,Books,Maple Press,1349.36
+78,Premium Speaker,Beauty,CarePlus,4179.18
+79,Essential Monitor,Fashion,StyleHub,2691.53
+80,Ultra Skincare Set,Electronics,NovaTech,78656.68
+81,Premium Mixer,Beauty,HerbalNest,3962.51
+82,Pro Headphones,Fashion,StyleHub,4964.5
+83,Smart Speaker,Electronics,PixelPro,6334.52
+84,Lite Speaker,Electronics,PixelPro,22922.05
+85,Ultra Monitor,Beauty,CarePlus,2792.45
+86,Smart Jacket,Beauty,Lumi,3857.63
+87,Pro Yoga Mat,Electronics,Voltix,41410.88
+88,Essential Backpack,Electronics,SoundMax,61232.21
+89,Essential Skincare Set,Beauty,GlowLab,1722.89
+90,Premium Keyboard,Home & Kitchen,Oak & Co,17673.06
+91,Essential Cookware,Beauty,CarePlus,4936.26
+92,Plus Novel,Electronics,NovaTech,61391.96
+93,Pro Keyboard,Beauty,GlowLab,4670.91
+94,Daily Bottle,Books,ReadWell,1616.04
+95,Classic Lamp,Home & Kitchen,CookEase,2470.79
+96,Daily Skincare Set,Electronics,NovaTech,56017.57
+97,Pro Novel,Beauty,HerbalNest,5818.33
+98,Pro Yoga Mat,Fashion,StyleHub,4717.11
+99,Ultra Sneakers,Electronics,Voltix,18011.45
+100,Essential Speaker,Fashion,Aster,7990.4
+101,Smart Novel,Books,Penguin,438.22
+102,Plus Headphones,Fashion,TrendLine,2883.79
+103,Lite Keyboard,Sports,ActiveX,1969.0
+104,Plus Jacket,Home & Kitchen,HomeNest,11827.02
+105,Ultra Keyboard,Home & Kitchen,CookEase,10704.35
+106,Max Sneakers,Electronics,PixelPro,39706.28
+107,Max Bottle,Beauty,GlowLab,5582.3
+108,Max Headphones,Electronics,SoundMax,38683.29
+109,Classic Sneakers,Home & Kitchen,CookEase,13059.81
+110,Ultra Bottle,Fashion,Aster,7127.45
+111,Ultra Speaker,Fashion,Aster,6596.74
+112,Classic Jacket,Home & Kitchen,PureHome,6297.16
+113,Plus Watch,Electronics,NovaTech,1823.74
+114,Lite Skincare Set,Fashion,UrbanWear,5147.15
+115,Classic Cookware,Books,Penguin,1544.0
+116,Essential Sneakers,Electronics,PixelPro,44585.73
+117,Lite Bottle,Fashion,Aster,1926.06
+118,Classic Bottle,Fashion,UrbanWear,6008.43
+119,Max Cookware,Fashion,TrendLine,5455.45
+120,Max Watch,Beauty,GlowLab,3477.19
+121,Pro Keyboard,Electronics,PixelPro,69176.22
+122,Pro Cookware,Home & Kitchen,PureHome,19692.36
+123,Premium Mixer,Beauty,HerbalNest,4074.12
+124,Essential Lamp,Fashion,Aster,5418.64
+125,Lite Jacket,Books,Maple Press,1242.63
+126,Pro Jacket,Books,Penguin,1016.52
+127,Premium Novel,Electronics,PixelPro,37542.59
+128,Ultra Novel,Fashion,Aster,5763.92
+129,Lite Novel,Electronics,NovaTech,49151.16
+130,Essential Bottle,Electronics,SoundMax,39606.46
+131,Ultra Watch,Home & Kitchen,PureHome,3515.87
+132,Essential Speaker,Home & Kitchen,Oak & Co,17667.45
+133,Lite Keyboard,Fashion,UrbanWear,5274.19
+134,Daily Mixer,Fashion,UrbanWear,2935.31
+135,Classic Keyboard,Fashion,UrbanWear,3043.69
+136,Plus Jacket,Books,Harper,557.09
+137,Plus Jacket,Books,Maple Press,1737.16
+138,Classic Watch,Electronics,NovaTech,68927.95
+139,Smart Speaker,Beauty,Lumi,3454.08
+140,Pro Backpack,Home & Kitchen,HomeNest,10280.67
+141,Pro Cookware,Beauty,Lumi,4473.59
+142,Lite Skincare Set,Home & Kitchen,CookEase,13382.11
+143,Max Speaker,Books,ReadWell,1760.15
+144,Daily Skincare Set,Electronics,PixelPro,5165.71
+145,Premium Mixer,Fashion,Aster,564.0
+146,Plus Monitor,Books,Penguin,1088.21
+147,Lite Keyboard,Electronics,NovaTech,16899.71
+148,Pro Speaker,Electronics,NovaTech,48660.89
+149,Smart Mixer,Beauty,CarePlus,4732.25
+150,Daily Bottle,Sports,Sprint,1639.66
+151,Essential Skincare Set,Beauty,GlowLab,2755.53
+152,Essential Lamp,Sports,Sprint,6980.07
+153,Premium Skincare Set,Beauty,Lumi,5036.41
+154,Classic Sneakers,Electronics,PixelPro,40110.45
+155,Classic Yoga Mat,Home & Kitchen,CookEase,5471.38
+156,Classic Watch,Sports,Sprint,5982.25
+157,Pro Cookware,Sports,ActiveX,4708.82
+158,Classic Headphones,Electronics,NovaTech,61936.49
+159,Smart Novel,Electronics,Voltix,44801.62
+160,Pro Jacket,Sports,PlayPro,3010.4
+161,Max Skincare Set,Fashion,UrbanWear,6108.83
+162,Plus Lamp,Electronics,Voltix,41805.56
+163,Lite Backpack,Sports,Sprint,2022.2
+164,Daily Watch,Home & Kitchen,CookEase,14251.58
+165,Classic Mixer,Fashion,TrendLine,7602.06
+166,Plus Bottle,Electronics,NovaTech,56676.89
+167,Classic Novel,Electronics,Voltix,24465.23
+168,Ultra Headphones,Sports,PlayPro,7195.47
+169,Lite Novel,Home & Kitchen,CookEase,7352.12
+170,Smart Bottle,Electronics,SoundMax,43780.96
+171,Premium Watch,Fashion,StyleHub,4354.79
+172,Classic Keyboard,Electronics,SoundMax,20393.36
+173,Premium Sneakers,Electronics,SoundMax,28352.19
+174,Pro Keyboard,Fashion,StyleHub,7554.8
+175,Essential Keyboard,Home & Kitchen,Oak & Co,6564.72
+176,Daily Jacket,Electronics,PixelPro,64241.34
+177,Pro Mixer,Fashion,Aster,5438.75
+178,Plus Jacket,Home & Kitchen,CookEase,13502.68
+179,Classic Monitor,Fashion,TrendLine,1358.86
+180,Plus Watch,Electronics,SoundMax,17002.0
+181,Pro Sneakers,Electronics,Voltix,14975.03
+182,Premium Bottle,Electronics,NovaTech,47274.11
+183,Premium Watch,Fashion,UrbanWear,7795.05
+184,Classic Lamp,Beauty,HerbalNest,5287.99
+185,Max Speaker,Electronics,Voltix,2799.95
+186,Classic Novel,Sports,ActiveX,2955.15
+187,Lite Cookware,Beauty,CarePlus,1112.09
+188,Essential Jacket,Electronics,PixelPro,78073.69
+189,Premium Keyboard,Electronics,SoundMax,19460.33
+190,Lite Skincare Set,Electronics,SoundMax,16744.0
+191,Smart Sneakers,Electronics,PixelPro,49973.32
+192,Lite Backpack,Home & Kitchen,HomeNest,14082.19
+193,Plus Lamp,Electronics,NovaTech,18687.44
+194,Premium Backpack,Sports,PlayPro,6802.54
+195,Essential Novel,Home & Kitchen,PureHome,2786.38
+196,Smart Headphones,Beauty,CarePlus,312.34
+197,Premium Backpack,Sports,ActiveX,1099.42
+198,Smart Monitor,Home & Kitchen,CookEase,9375.76
+199,Lite Mixer,Books,Harper,1758.78
+200,Pro Jacket,Books,Maple Press,1052.96
+201,Classic Jacket,Fashion,TrendLine,6111.39
+202,Ultra Yoga Mat,Electronics,Voltix,26262.46
+203,Essential Headphones,Fashion,Aster,5838.91
+204,Smart Watch,Electronics,PixelPro,77321.55
+205,Daily Sneakers,Home & Kitchen,PureHome,9200.92
+206,Daily Watch,Fashion,StyleHub,7992.76
+207,Plus Mixer,Home & Kitchen,Oak & Co,16104.88
+208,Premium Yoga Mat,Sports,ActiveX,7561.34
+209,Pro Mixer,Fashion,Aster,2241.69
+210,Smart Yoga Mat,Home & Kitchen,CookEase,16220.03
+211,Plus Skincare Set,Fashion,UrbanWear,4234.75
+212,Essential Yoga Mat,Sports,FitCore,9577.11
+213,Smart Skincare Set,Beauty,Lumi,5447.12
+214,Daily Watch,Electronics,Voltix,32216.47
+215,Pro Lamp,Beauty,Lumi,5691.84
+216,Lite Jacket,Electronics,Voltix,70877.15
+217,Daily Bottle,Beauty,CarePlus,3624.23
+218,Plus Jacket,Home & Kitchen,Oak & Co,2420.1
+219,Premium Backpack,Fashion,Aster,1538.08
+220,Essential Cookware,Beauty,GlowLab,645.87
+221,Premium Bottle,Sports,Sprint,1347.53
+222,Premium Lamp,Sports,FitCore,9776.44
+223,Plus Jacket,Home & Kitchen,PureHome,5619.32
+224,Smart Backpack,Beauty,CarePlus,4206.96
+225,Ultra Mixer,Fashion,StyleHub,5201.27
+226,Plus Watch,Sports,Sprint,6422.11
+227,Essential Keyboard,Sports,ActiveX,2305.03
+228,Classic Headphones,Electronics,NovaTech,46684.25
+229,Plus Speaker,Electronics,NovaTech,50342.64
+230,Lite Skincare Set,Fashion,UrbanWear,4692.12
+231,Lite Watch,Electronics,PixelPro,15544.07
+232,Premium Bottle,Fashion,UrbanWear,5867.57
+233,Premium Yoga Mat,Electronics,PixelPro,6600.86
+234,Classic Mixer,Home & Kitchen,Oak & Co,14943.52
+235,Plus Keyboard,Electronics,Voltix,35351.74
+236,Plus Backpack,Fashion,Aster,2227.21
+237,Smart Sneakers,Beauty,CarePlus,4882.86
+238,Pro Headphones,Fashion,TrendLine,1654.37
+239,Plus Yoga Mat,Fashion,Aster,7483.96
+240,Max Mixer,Sports,FitCore,8880.28
+241,Lite Mixer,Books,ReadWell,744.97
+242,Classic Yoga Mat,Home & Kitchen,PureHome,7906.76
+243,Plus Backpack,Electronics,PixelPro,11688.95
+244,Pro Mixer,Electronics,PixelPro,73373.16
+245,Max Lamp,Books,Harper,1185.43
+246,Classic Keyboard,Beauty,GlowLab,384.34
+247,Classic Novel,Sports,FitCore,5256.69
+248,Essential Headphones,Beauty,CarePlus,697.63
+249,Lite Speaker,Electronics,NovaTech,46241.05
+250,Lite Mixer,Fashion,TrendLine,4219.01
+251,Classic Yoga Mat,Sports,PlayPro,1103.61
+252,Plus Yoga Mat,Sports,PlayPro,8213.85
+253,Premium Keyboard,Electronics,NovaTech,21575.52
+254,Lite Headphones,Home & Kitchen,Oak & Co,13720.52
+255,Daily Yoga Mat,Electronics,SoundMax,51411.88
+256,Plus Cookware,Books,Harper,1737.8
+257,Plus Monitor,Fashion,TrendLine,4102.35
+258,Plus Sneakers,Beauty,CarePlus,5520.43
+259,Premium Lamp,Electronics,NovaTech,28904.7
+260,Essential Keyboard,Home & Kitchen,PureHome,21492.96
+261,Premium Novel,Beauty,HerbalNest,1567.79
+262,Pro Yoga Mat,Fashion,TrendLine,5747.59
+263,Daily Mixer,Sports,ActiveX,1159.54
+264,Classic Lamp,Books,Penguin,1776.98
+265,Max Jacket,Sports,ActiveX,9553.18
+266,Ultra Headphones,Fashion,TrendLine,3705.05
+267,Plus Bottle,Beauty,CarePlus,3238.82
+268,Lite Keyboard,Home & Kitchen,HomeNest,15105.26
+269,Pro Cookware,Home & Kitchen,Oak & Co,7165.92
+270,Smart Jacket,Home & Kitchen,CookEase,16992.0
+271,Lite Keyboard,Home & Kitchen,CookEase,17584.62
+272,Essential Skincare Set,Electronics,SoundMax,42386.06
+273,Pro Speaker,Fashion,StyleHub,1437.6
+274,Premium Bottle,Electronics,SoundMax,73599.53
+275,Classic Keyboard,Fashion,TrendLine,1185.85
+276,Ultra Novel,Electronics,PixelPro,50630.44
+277,Max Yoga Mat,Electronics,NovaTech,8964.62
+278,Essential Speaker,Sports,FitCore,1717.18
+279,Pro Bottle,Home & Kitchen,Oak & Co,905.24
+280,Essential Cookware,Electronics,SoundMax,29578.44
+281,Premium Monitor,Sports,PlayPro,6503.95
+282,Premium Keyboard,Books,Harper,1010.55
+283,Daily Watch,Books,Maple Press,1262.99
+284,Smart Mixer,Sports,Sprint,6847.68
+285,Smart Sneakers,Books,ReadWell,381.29
+286,Plus Novel,Home & Kitchen,PureHome,1810.5
+287,Premium Speaker,Books,Harper,1181.84
+288,Essential Backpack,Books,ReadWell,1227.82
+289,Pro Novel,Fashion,Aster,4586.62
+290,Premium Jacket,Sports,PlayPro,2683.9
+291,Plus Speaker,Sports,Sprint,8164.42
+292,Smart Monitor,Sports,Sprint,1034.15
+293,Essential Monitor,Books,ReadWell,1193.31
+294,Premium Headphones,Fashion,UrbanWear,1227.17
+295,Plus Yoga Mat,Fashion,UrbanWear,5339.25
+296,Lite Monitor,Beauty,CarePlus,2622.81
+297,Pro Skincare Set,Beauty,HerbalNest,4365.0
+298,Plus Skincare Set,Books,Penguin,236.12
+299,Classic Headphones,Books,Penguin,1065.89
+300,Daily Speaker,Beauty,GlowLab,1040.29
